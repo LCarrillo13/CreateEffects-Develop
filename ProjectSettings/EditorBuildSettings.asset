@@ -11,10 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Create Effects/Shader - Basic Jelly Effect/Basic Jelly Scene.unity
     guid: 6d0595ebe98eb064dbe5f8fd93210a47
-  - enabled: 0
-    path: Assets/Create Effects/Shader - Cosmic Effect/Cosmic Scene.unity
-    guid: dbbccd478ae6e894b86ce569babb96f6
   - enabled: 1
+    path: Assets/Create Effects/Shader - Wireframe/WireFrameScene.unity
+    guid: 7dfd1c81aa151e642bf1be93a2428af6
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: Assets/Create Effects/Shader - Echolocation/Echolocation.unity
     guid: 6dd8e77b45b8b0e4c826dce1e5725af9
   - enabled: 1
@@ -27,14 +30,14 @@ EditorBuildSettings:
     path: Assets/Create Effects/Shader - Snow Effect/Snow Effect Scene.unity
     guid: 6a7907a4fc877514b883eff87fd873fb
   - enabled: 1
-    path: Assets/Create Effects/Particle Effect - Dust/Dust.unity
+    path: Assets/Create Effects/Particle Effect - MuzzleFlash/MuzzleFlash.unity
     guid: 844dede19df06204f9d0abd6064e2468
   - enabled: 1
-    path: Assets/Create Effects/Particle Effect - Explossion/Scenes/Explosion Scene.unity
+    path: Assets/Create Effects/Particle Effect - explosionn/Scenes/Explosion Scene.unity
     guid: c42e2fb9ed2d7d14eaf33fb1d0da6eb8
   - enabled: 0
-    path: Assets/Create Effects/Particle Effect - Fire/Scenes/FlameThrower.unity
-    guid: 6f2a0f193b147bd4f844fd5439f5b842
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Create Effects/Particle Effect - Fireflies Particles/FireFlies.unity
     guid: 4dde830432f6f6849a222bfe8c9adb49
